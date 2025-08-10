@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>History of GreenRoots Agriculture</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            margin: 30px;
+            background-color: #f8f8f8;
+        }
+        h1 {
+            color: #3e8e41;
+        }
+        .highlight {
+            color: #b22222;
+            font-family: 'Georgia', serif;
+            font-size: 18px;
+        }
+        .info {
+            font-family: 'Courier New', monospace;
+            color: #2e5c9a;
+            font-size: 14px;
+        }
+        .small-text {
+            font-size: 12px;
+        }
+        .large-text {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🌾 History of <span class="highlight">GreenRoots Agriculture</span></h1>
+
+    <p><b>GreenRoots Agriculture</b> was <u>founded in 1985</u> by a group of <i>passionate farmers</i> with a vision to revolutionize sustainable farming.</p>
+
+    <p class="info large-text">What started as a small cooperative of <span class="highlight">organic farmers</span> in Iowa has grown into a national leader in eco-friendly agriculture.</p>
+
+    <p class="highlight small-text">Over the decades, our focus has remained on quality, sustainability, and community impact.</p>
+
+    <h2>📌 Major Milestones</h2>
+    <ol>
+        <li>1985 – Company founded with 12 local farms</li>
+        <li>1995 – Launched our first seed distribution center</li>
+        <li>2005 – Certified organic by USDA</li>
+        <li>2018 – Expanded to international markets</li>
+    </ol>
+
+    <h2>🌱 Our Core Values</h2>
+    <ul>
+        <li>Environmental sustainability</li>
+        <li>Community-based farming</li>
+        <li>Innovation through research</li>
+    </ul>
+
+    <h2>📷 Company Heritage</h2>
+    <img src="https://via.placeholder.com/500x300.png?text=GreenRoots+Farm" alt="Historic photo of GreenRoots farm" width="500">
+
+    <h2>📎 Resources</h2>
+    <ul>
+        <li><a href="https://www.usda.gov/topics/farming" target="_blank">USDA – Farming Information</a></li>
+        <li><a href="mailto:contact@greenroots.com">Contact Me</a></li>
+        <li><a href="company-brochure.pdf" download>Download Company Brochure (PDF)</a></li>
+    </ul>
+
+    <hr>
+    <p class="small-text">
+        Last Modified: <script>document.write(new Date(document.lastModified).toLocaleString());</script>
+    </p>
+
+</body>
+</html>
